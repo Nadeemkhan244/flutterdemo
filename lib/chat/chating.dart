@@ -13,6 +13,11 @@ class _chatingState extends State<chating> {
       appBar: AppBar(
         title:  Text('khan'),
       ) ,
+      body: Column(
+        children: [
+          Text('nadeemkha'),
+        ],
+      ),
     );
   }
 }
