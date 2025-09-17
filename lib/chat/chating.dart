@@ -16,6 +16,7 @@ class _chatingState extends State<chating> {
       body: Column(
         children: [
           Text('nadeemkha'),
+          Text('nadeem khan'),
         ],
       ),
     );
